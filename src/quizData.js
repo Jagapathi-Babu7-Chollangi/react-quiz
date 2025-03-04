@@ -1,13 +1,13 @@
 const quizData = [
     {
-      question: "Which company developed the first commercial antivirus software?",
-      options: ["Symantec", "McAfee", "Norton", "Kaspersky Lab"],
-      answer: "McAfee"
+      question: "AWS allows users to manage their resources using a web based user interface. What is the name of this interface?",
+      options: ["AWS CLI", "AWS API", "AWS SDK", "AWS Management Console"],
+      answer: "AWS Management Console"
     },
     {
-      question: "Which animal is featured in the official PHP logo?",
-      options: ["Elephant", "Hippo", "Giraffe", "Lion"],
-      answer: "Elephant"
+      question: "Which of the following helps a customer view the Amazon EC2 billing activity for the past month?",
+      options: ["AWS Budgets", "AWS Pricing Calculator", "AWS Systems Manager", "AWS Cost & Usage Reports"],
+      answer: "AWS Cost & Usage Reports"
     },
     {
       question: "What does 'HTTP' stand for?",
@@ -50,9 +50,9 @@ const quizData = [
       answer: "Paris"
     },
     {
-      question: "Who painted the Mona Lisa?",
-      options: ["Vincent Van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Claude Monet"],
-      answer: "Leonardo da Vinci"
+      question: "What does Amazon CloudFront use to distribute content to global users with low latency?",
+      options: ["AWS Global Accelerator", "AWS Regions", "AWS Edge Locations", "AWS Availability Zones"],
+      answer: "AWS Edge Locations"
     },
     {
       question: "What is the largest planet in our solar system?",
